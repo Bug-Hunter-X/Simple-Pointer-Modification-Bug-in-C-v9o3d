@@ -1,0 +1,4 @@
+# Simple Pointer Modification Bug in C
+This repository contains a simple C program that demonstrates a common error related to pointer usage. The program intends to modify the value of a variable using a pointer, but it might not work as expected due to improper understanding of pointers. 
+The `bug.c` file contains the buggy code. The `bugSolution.c` file presents a corrected version.
+The focus here is on illustrating how seemingly simple pointer manipulation can lead to unexpected behavior if not handled carefully. Understanding these fundamentals is crucial for writing robust and reliable C code.
